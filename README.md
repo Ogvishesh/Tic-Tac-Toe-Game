@@ -33,7 +33,7 @@ This project focuses on core web development concepts such as DOM manipulation, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   https://github.com/Ogvishesh/Tic-Tac-Toe-Game.git
 
 📂 Project Structure
 tic-tac-toe/
